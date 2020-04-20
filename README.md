@@ -44,3 +44,12 @@ Python3 / Redis / RabbitMQ / JS / React, виходячи з того, що:
 
 5 - глибоке розуміння і відмінні навички роботи з технологією, багато практики
 
+
+| Technology | Grade |
+| :---: | :---: |
+| Python3 | 4 |
+| Redis | 4 |
+| RabbitMQ | 5 |
+| JS | 4 |
+| React | 3 |
+
