@@ -57,5 +57,5 @@ Python3 / Redis / RabbitMQ / JS / React, виходячи з того, що:
 
 ![](./assets/images/percentage.jpg)
 
-### Max Belushkin's CS
+### Max Belushkin's Curriculum Vitae
 [![](./assets/images/PDF_file_icon.svg)](https://github.com/belushkin/linkalong/blob/master/assets/documents/SeniorWebDeveloperMaksymBielushkin.pdf)
