@@ -59,3 +59,4 @@ Python3 / Redis / RabbitMQ / JS / React, виходячи з того, що:
 
 ### Max Belushkin's CS
 ![https://google.com/](./assets/images/PDF_file_icon.svg)
+[![](./assets/images/PDF_file_icon.svg)](http://google.com.au/)
