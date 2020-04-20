@@ -55,4 +55,7 @@ Python3 / Redis / RabbitMQ / JS / React, виходячи з того, що:
 
 ### Looking at the sky task explanation:
 
-![](./images/percentage.jpg)
+![](./assets/images/percentage.jpg)
+
+### Max Belushkin's CS
+![https://google.com/](./assets/images/PDF_file_icon.svg)
