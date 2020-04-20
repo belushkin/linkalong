@@ -53,6 +53,6 @@ Python3 / Redis / RabbitMQ / JS / React, виходячи з того, що:
 | JS | 4 |
 | React | 3 |
 
-Looking at the sky task explanation:
+### Looking at the sky task explanation:
 
 ![](./images/percentage.jpg)
