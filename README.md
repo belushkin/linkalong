@@ -3,7 +3,14 @@
 ## Answers on small technical task
 
 * brick weighs 1 kg plus half the weight of the brick - how much does the brick weigh?
-    * The answer is 1 kg
+    * The answer is 2 kg
+    
+    х=1кг+0.5*х
+    <br/>
+    х-0.5х=1кг
+    <br/>
+    0.5х=1кг<br/>
+    х=2кг
     
 * In an array of any size with integers from 1 to 500,000, one number is repeated twice, all other numbers are unique. Suggest the fastest algorithm for finding a recurring number.
     * The answer is in `python3 find_the_duplicate_number.py`
@@ -12,7 +19,13 @@
     * The answer is in `python3 spiral_matrix.py 3x3`
 
 * Looking at the sky for three minutes, the probability of noticing the aircraft is 60%. Determine the probability of noticing the aircraft in one minute and explain the solution.
-    * The answer is 20% (explanation is in attached image)
+    * The answer is 29%
+
+```
+    Explanation (Poisson point process):
+    lamdba = n * p = 3 * 0.6 = 1.8
+    P(X=1) = (lambda^x * e^-lambda)/x! = (1.8*0.1653)/1 = 0.29 = 29%
+```
 
 * Write a console program which by a given number finds the binary number inverse to it (13 => 1101, inverse to it (read from right to left) 1011 => 11). At the input parameter number N 1 <= N <= 1000000000, the output is a return number.
     * The answer is in `python3 reverse_bits.py 13`
@@ -53,9 +66,6 @@ Python3 / Redis / RabbitMQ / JS / React, виходячи з того, що:
 | JS | 4 |
 | React | 3 |
 
-### Looking at the sky task explanation:
-
-![](./assets/images/percentage.jpg)
 
 ### Max Belushkin's Curriculum Vitae
 [![](./assets/images/PDF_file_icon.svg)](https://github.com/belushkin/linkalong/blob/master/assets/documents/SeniorWebDeveloperMaksymBielushkin.pdf)
